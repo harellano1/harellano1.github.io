@@ -4,8 +4,7 @@ logo: "/assets/img/profile_hugo_arellano.png?raw=true"
 
 description: <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  <a href="https://github.com/harellano1">GitHub</a>
   </p>
   
   <p align="justify">
@@ -19,6 +18,6 @@ description: <p align="center">
 
 
 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
