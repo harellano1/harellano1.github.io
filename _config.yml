@@ -1,7 +1,24 @@
 title: <p align="center"> Hugo Arellano </p>
-logo: /assets/img/profile_hugo_arellano.png 
 
-description: Welcome to my website
+logo: "/assets/img/profile_hugo_arellano.png?raw=true" 
+
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
+  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  <br><br>
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
+
+
+
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
