@@ -1,5 +1,8 @@
 title: <p align="center"> Hugo Arellano </p>
-logo: /assets/img/Hugo_Arellano_Carlos_Hugo_Arellano_Sanchez_Economista_economia_colima_data_science_python_ciencia_de_datos.jpg
+logo: "/assets/img/profile_hugo_arellano.png?raw=true" 
+alt= "Economista Ciencia de Datos Colima"
+
+
 description: Welcome to my website
 show_downloads: true
 google_analytics:
