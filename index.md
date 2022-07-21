@@ -23,7 +23,7 @@
 ---
 
 ### Build and exploring panel data for the study of payroll tax in Mexico
-#### 📅 May 2022
+#### 📅 Abr 2022
 #### Panel data - tax competition - python - streamlit
 
 <div align = "justify">Extracting information from the National Institute of Statistics, Geography and Informatics (Inegi), I build a panel data, in order to contribute to develoment of a research paper oriented to study tax competition across the different mexican states. These scripts contains the full process from charge and handling data to the development of an interactive app as an exploratory data analisis</div>
