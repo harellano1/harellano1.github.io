@@ -12,3 +12,9 @@ description: <p align="center">
   specially in the branches that involve behavior, microeconomics,
   programming and technology.
   </p>
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
