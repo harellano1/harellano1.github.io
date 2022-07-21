@@ -3,7 +3,7 @@
 ## Projects
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
 ### 📅 Mar 2020
-#### <div align = "right">Handling / plotting interactive / plotting geodata / python libraries</div>
+#### <div align = "right">Handling - plotting interactive - plotting geodata - python libraries</div>
 
 <div align = "justify">One of my task when I worked in the public sector time to time looked up official surverys and extract some useful insights, in order to support in a bunch of legislattive task like: reports, study and development of law propossals, political analysis and so on. The data of the national survey of occupation and employment was one of my favorite because its publication frecuency and sociodemographic content. In that period this jupyter notobook turn up in a kind of cheetsheet for me. I hope that you find useful.</div>
 
