@@ -1,10 +1,10 @@
 # Portfolio
 ---
-## Project
+## Projects
 ---
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
-### 📅 Mar 2020
-<div align = "right"> Handling - plotting interactive - plotting geodata - python libraries</div>
+#### <div align = "right">📅 Mar 2020</div>
+#### Handling - plotting interactive - plotting geodata - python libraries
 
 <div align = "justify">One of my task when I worked in the public sector time to time looked up official surverys and extract some useful insights, in order to support in a bunch of legislattive task like: reports, study and development of law propossals, political analysis and so on. The data of the national survey of occupation and employment was one of my favorite because its publication frecuency and sociodemographic content. In that period this jupyter notobook turn up in a kind of cheetsheet for me. I hope that you find useful.</div>
 
@@ -13,7 +13,7 @@
 ---
 
 ### Counterfactual analysis with microsimulation models
-### 📅 Feb 2018 - Abr 2019
+#### 📅 Feb 2018 - Abr 2019
 #### <div align = "right">Handling data / adapting code / microsimulation models / stata</div> 
 
 <div align = "justify">Doing this work was as I discovered the power of programming skills oriented to economic analysis. We developed a comparision between the 2014 fiscal reform and two own propousals to see the effect in the population expenditure and total recaudation, in this way using data from the national survey of household income and expenditure, we adapted a microsimulation model called LATAX.</div> 
