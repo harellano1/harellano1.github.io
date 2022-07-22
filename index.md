@@ -3,7 +3,7 @@
 ## Projects
 ---
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
-#### 📅 March 2020 
+#### 📅 March 2020
 #### Handling - plotting interactive - plotting geodata - python libraries
 
 <div align = "justify">One of my task when I worked in the public sector time to time looked up official surverys and extract some useful insights, in order to support in a bunch of legislattive task like: reports, study and development of law propossals, political analysis and so on. The data of the national survey of occupation and employment was one of my favorite because its publication frecuency and sociodemographic content. In that period this jupyter notobook turn up in a kind of cheetsheet for me. I hope that you find useful.</div>
@@ -52,14 +52,25 @@
 
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 ---
+## Courses
 
+#### 
+
+
+
+--- 
 ## Akwards 🏆
 
 #### Local University League of Football Indoor - 📅 May 2017
 
 #### State University League of Football Indoor - 📅 Jun 2017
 
-#### Impulsa Indajo: Better bussines idea - 📅 Sep 2017
+#### Impulsa Indajo of the Colima's Town Hall: Better business idea - 📅 Sep 2018
 
 #### Thesis honorific mention - 📅 Sep 2019
+
+---
+
+
+
 
